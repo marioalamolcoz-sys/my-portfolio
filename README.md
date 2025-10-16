@@ -1,3 +1,7 @@
 # Mario Alaminos
 ## Desarrollo de Aplicacion Multiplataforma
 Hola soy estdiante de cuatro vientos 
+estudio
+-visual basic
+-java
+-HTML
